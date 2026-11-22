@@ -1,0 +1,16 @@
+# Keep secrets out of Git
+.env
+.env.*
+*.key
+secrets*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

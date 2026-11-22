@@ -1,0 +1,11 @@
+id,company,branches,min_cgpa,max_backlogs,batch,summary,status,eligible_count
+J01,Zentrix Software,CSE;IT;AIDS,7.5,0,2027,"CSE, IT, AI&DS 2027, CGPA 7.5+, no backlogs",matched,6
+J02,Cloudnest Technologies,CSE;IT;ECE;EEE,,1,2027,"CSE, IT, ECE, EEE 2027 batch, percentage cut-off, 1 arrear allowed",needs_review,0
+J03,Bluepeak Systems,ALL,6.5,,,"Any branch, CGPA 6.5+",matched,22
+J04,Kovai Motors,MECH;EEE,,,2027,"Mechanical, EEE 2027 batch, minimum 70 percent",needs_review,0
+J05,Finserve Analytics,CSE;IT;AIDS,8.0,0,2027,"CSE, IT, AI&DS 2027, CGPA 8.0+, no history of arrears",matched,5
+J06,Sundaram Infra Projects,CIVIL;MECH,,,2027,"Civil and Mechanical 2027 batch, 65 percent aggregate",needs_review,0
+J07,Pixelforge Games,ALL,7.0,,2027,"All branches, 2027 batch, CGPA 7.0+, portfolio or GitHub mandatory",matched,16
+J08,Medilink Health,CSE;IT,7.5,0,2027,"CSE, IT 2027, CGPA 7.5+, no active backlogs",matched,4
+J09,Teknova Embedded,ECE;EEE,7.0,,2027,"ECE, EEE 2027 batch, CGPA 7.0+",matched,4
+J10,Greenleaf Logistics,ALL,,,2027,"Any branch, 2027 batch, 60% percentage cut-off",needs_review,0

@@ -1,0 +1,17 @@
+DRAFT - the placement officer must check every list before it is shared.
+
+Eligible students per job
+  J01  Zentrix Software          matched      6
+  J02  Cloudnest Technologies    needs_review 0
+  J03  Bluepeak Systems          matched      22
+  J04  Kovai Motors              needs_review 0
+  J05  Finserve Analytics        matched      5
+  J06  Sundaram Infra Projects   needs_review 0
+  J07  Pixelforge Games          matched      16
+  J08  Medilink Health           matched      4
+  J09  Teknova Embedded          matched      4
+  J10  Greenleaf Logistics       needs_review 0
+
+Students eligible for no job yet
+  27IT009  Naveen Chandran
+  27EC024  Arvind Murugan
